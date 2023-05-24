@@ -13,3 +13,8 @@ Delete the things you have recently done and start from scratch again for couple
 Still if you have need some help around you can create a discussion with the trainer.
 Use the following link to create a discussion.
 https://github.com/muzibhai/Training/discussions/categories/q-a
+
+
+# look at the roadmap for DevOps in 2023
+
+https://roadmap.sh/devops
