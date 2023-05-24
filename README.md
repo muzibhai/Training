@@ -18,3 +18,7 @@ https://github.com/muzibhai/Training/discussions/categories/q-a
 # look at the roadmap for DevOps in 2023
 
 https://roadmap.sh/devops
+
+#lets meet in coming FIRDAY at 8pm ist using the following link
+https://meet.google.com/asb-jdna-qyc
+
