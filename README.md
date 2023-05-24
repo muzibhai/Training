@@ -19,6 +19,7 @@ https://github.com/muzibhai/Training/discussions/categories/q-a
 
 https://roadmap.sh/devops
 
-#lets meet in coming FIRDAY at 8pm ist using the following link
+#lets meet in coming FIRDAY 
+at 8pm ist using the following link
 https://meet.google.com/asb-jdna-qyc
 
