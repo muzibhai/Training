@@ -1,15 +1,14 @@
 # Training
+Please make sure you have a gmail account
 
-hello everyone meet me on zoom by using following link
-
-zoom.comn/sdfsdsfsdf
-
+Please make a github.com
 
 
 
-# look at the roadmap for DevOps in 2023
 
-https://roadmap.sh/devops
+
+
+
 
 # Upcoming Meeting
 #lets meet in coming FIRDAY 
