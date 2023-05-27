@@ -6,7 +6,12 @@
 
 
 # How Do you resolve your Hands On Labs Querries 
-Post your problems on the discussion board 
+
+1. Fill up this form
+
+https://forms.gle/8umNu5LVigUrrPsQ8
+
+2. Post your problems on the discussion board 
 
 https://github.com/muzibhai/Training/discussions
 
