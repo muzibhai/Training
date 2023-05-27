@@ -15,8 +15,9 @@ https://forms.gle/8umNu5LVigUrrPsQ8
 
 https://github.com/muzibhai/Training/discussions
 
+
 #Once you log in to your github account
-#Now Click at New Discussion
+Now Click at New Discussion
 <img width="1079" alt="image" src="https://github.com/muzibhai/Training/assets/64169690/527cf8b3-a0fb-43b2-9190-0b497cf9de94">
 
 
