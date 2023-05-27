@@ -1,21 +1,13 @@
-# Training
-Please make sure you have a gmail account
+# Pre-requisites for the Training
 
-Please make a github.com
+1. Please make sure you have a gmail account
+2. Please git registered with wwww.github.com
+3. Keep visiting this page for further information
+
 
 # How Do you resolve your Hands On Labs Querries 
 
 
-
-
-
-
 # Upcoming Meeting
-#lets meet in coming FIRDAY 
-at 8pm IST using the following link
-https://meet.google.com/umg-nrrw-uuw
 
-#Training Orientation Session
-Everyday 
-Morning 
-Evening 
+
