@@ -1,7 +1,7 @@
 # Pre-requisites for the Training
 
 1. Please make sure you have a gmail account
-2. Please git registered with wwww.github.com
+2. Please get registered with wwww.github.com
 3. Keep visiting this page for further information
 
 
@@ -11,7 +11,7 @@
 
 https://forms.gle/8umNu5LVigUrrPsQ8
 
-2. Post your problems on the discussion board 
+# Post your problems on the discussion board 
 
 https://github.com/muzibhai/Training/discussions
 
