@@ -16,23 +16,6 @@ https://forms.gle/8umNu5LVigUrrPsQ8
 https://github.com/muzibhai/Training/discussions
 
 
-#Once you log in to your github account
-Now Click at New Discussion
-<img width="1079" alt="image" src="https://github.com/muzibhai/Training/assets/64169690/527cf8b3-a0fb-43b2-9190-0b497cf9de94">
-
-
-
-#Now get started with Q&A
-<img width="941" alt="image" src="https://github.com/muzibhai/Training/assets/64169690/cb4e2e7e-67d7-49f5-9ef1-a4dacfdc403a">
-
-#
-Now you are at the final page
-1. Type in the Topic related to your Query
-2. You may try here to express yourself. moreover you can put a screenshot as well
-3. click here to start the discussion
-
-<img width="1010" alt="image" src="https://github.com/muzibhai/Training/assets/64169690/a88a04e6-be06-49dd-9453-5b592c0b4908">
-
 
 # Important Links hereunder
 
