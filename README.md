@@ -3,6 +3,19 @@
 1. Please make sure you have a gmail account
 2. Keep visiting this page for further information
 
+# Support Timings
+
+Central Time 
+Morning 7:00 AM to 11:30 AM
+Evening 7:00 PM to 11:30 PM
+
+Pacific Time
+Morning 5:00 AM to 9:30 AM
+Evening 5:00 PM to 9:30 PM
+
+Eastern Time 
+Morning 8:00 AM to 12:30 PM
+Evening 8:00 PM to 12:30 AM
 
 # How Do you resolve your Hands On Labs Querries 
 
