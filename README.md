@@ -1,7 +1,6 @@
 # Pre-requisites for the Training
 
-1. Please make sure you have a gmail account
-2. Keep visiting this page for further information
+
 
 # Support Timings
 
