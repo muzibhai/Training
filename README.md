@@ -18,7 +18,7 @@ Evening 8:00 PM to 12:30 AM
 
 # How Do you resolve your Hands On Labs Querries 
 
-1. Fill up this form
+Fill up this form
 
 https://forms.gle/8umNu5LVigUrrPsQ8
 
