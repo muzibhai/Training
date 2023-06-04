@@ -1,6 +1,3 @@
-# Pre-requisites for the Training
-
-
 
 # Support Timings
 
