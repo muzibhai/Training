@@ -13,16 +13,10 @@ Eastern Time
 Morning 8:00 AM to 12:30 PM
 Evening 8:00 PM to 12:30 AM
 
-# How Do you resolve your Hands On Labs Querries 
-
-Fill up this form
-
-https://forms.gle/8umNu5LVigUrrPsQ8
 
 # Post your problems on the discussion board 
 
 https://github.com/muzibhai/Training/discussions
-
 
 
 # Important Links hereunder
