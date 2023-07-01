@@ -1,4 +1,3 @@
-
 # Support Timings
 
 Central Time 
@@ -12,6 +11,8 @@ Evening 5:00 PM to 9:30 PM
 Eastern Time 
 Morning 8:00 AM to 12:30 PM
 Evening 8:00 PM to 12:30 AM
+
+During these timings you may text in the whatsapp group assigned to you.
 
 
 # Post your problems on the discussion board 
