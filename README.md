@@ -1,18 +1,23 @@
-# Support Timings
+# How do you meet your trainer
+Bookmark your Welcome Google Docs to your default browser.
+Check out for the meetings links during the support timings over there.
+if link is not providedthen Trainer/s is not availalbe  so you can meet the trainer/s in the next available session.
+
+# Live Sessions with Trainers
 
 Central Time 
-Morning 7:00 AM to 11:30 AM
-Evening 7:00 PM to 11:30 PM
+Morning 7:00 AM to 11 AM
+Evening 7:00 PM to 11 PM
 
 Pacific Time
-Morning 5:00 AM to 9:30 AM
-Evening 5:00 PM to 9:30 PM
+Morning 5:00 AM to 9 AM
+Evening 5:00 PM to 9 PM
 
 Eastern Time 
-Morning 8:00 AM to 12:30 PM
-Evening 8:00 PM to 12:30 AM
+Morning 8:00 AM to 12PM
+Evening 8:00 PM to 12AM
 
-During these timings you may text in the whatsapp group assigned to you.
+During these timings you may checkout on the welcome google docs for the meeting link 
 
 
 # Post your problems on the discussion board 
