@@ -1,7 +1,7 @@
 # How do you meet your trainer
 Bookmark your Welcome Google Docs to your default browser.
 Check out for the meetings links during the support timings over there.
-if link is not providedthen Trainer/s is not availalbe  so you can meet the trainer/s in the next available session.
+if link is not provided then Trainer/s is not availalbe  so you can meet the trainer/s in the next available session.
 
 # Live Sessions with Trainers
 
